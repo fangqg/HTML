@@ -1,4 +1,4 @@
-﻿
+﻿// ddd
 var CC = CosmiCube = {}; //
 CC.getControl = function (ctrl) {
     if (!ctrl) return null;
